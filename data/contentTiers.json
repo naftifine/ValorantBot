@@ -1,0 +1,37 @@
+{
+  "0cebb8be-46d7-c12a-d306-e9907bfc5a25": {
+    "uuid": "0cebb8be-46d7-c12a-d306-e9907bfc5a25",
+    "devName": "Deluxe",
+    "displayName": "Deluxe Edition",
+    "displayIcon": "https://media.valorant-api.com/contenttiers/0cebb8be-46d7-c12a-d306-e9907bfc5a25/displayicon.png",
+    "highlightColor": "00958733"
+  },
+  "e046854e-406c-37f4-6607-19a9ba8426fc": {
+    "uuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "devName": "Exclusive",
+    "displayName": "Exclusive Edition",
+    "displayIcon": "https://media.valorant-api.com/contenttiers/e046854e-406c-37f4-6607-19a9ba8426fc/displayicon.png",
+    "highlightColor": "f5955b33"
+  },
+  "60bca009-4182-7998-dee7-b8a2558dc369": {
+    "uuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+    "devName": "Premium",
+    "displayName": "Premium Edition",
+    "displayIcon": "https://media.valorant-api.com/contenttiers/60bca009-4182-7998-dee7-b8a2558dc369/displayicon.png",
+    "highlightColor": "d1548d33"
+  },
+  "12683d76-48d7-84a3-4e09-6985794f0445": {
+    "uuid": "12683d76-48d7-84a3-4e09-6985794f0445",
+    "devName": "Select",
+    "displayName": "Select Edition",
+    "displayIcon": "https://media.valorant-api.com/contenttiers/12683d76-48d7-84a3-4e09-6985794f0445/displayicon.png",
+    "highlightColor": "5a9fe233"
+  },
+  "411e4a55-4e59-7757-41f0-86a53f101bb5": {
+    "uuid": "411e4a55-4e59-7757-41f0-86a53f101bb5",
+    "devName": "Ultra",
+    "displayName": "Ultra Edition",
+    "displayIcon": "https://media.valorant-api.com/contenttiers/411e4a55-4e59-7757-41f0-86a53f101bb5/displayicon.png",
+    "highlightColor": "fad66333"
+  }
+}

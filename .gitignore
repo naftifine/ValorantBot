@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+config.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Test data
+testdata/
+
+# Build outputs
+dist/
+build/
+
+# Cache
+.cache/
+.npm/
+.eslintcache
+
+# Sensitive data files
+data/banList.json
+data/profile.json
+data/data.json
+
+# Temporary files
+*.tmp
+*.temp
+
+note.txt
+start.bat
