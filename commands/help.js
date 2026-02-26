@@ -40,6 +40,11 @@ module.exports = {
                     name: '`/setprofile <riotid>`',
                     value: 'Link your Valorant account to your Discord.\nExample: `/setprofile riotid:Naftifine#meow`',
                     inline: false
+                },
+                {
+                    name: '`/report`',
+                    value: 'Report a bug or issue with the bot.',
+                    inline: false
                 }
             )
             .setFooter({ text: 'Valorant Stats Bot' })

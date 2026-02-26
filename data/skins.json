@@ -27991,6 +27991,48 @@
       }
     ]
   },
+  "ed3ac995-4fd1-3079-27aa-4aab84447833": {
+    "uuid": "ed3ac995-4fd1-3079-27aa-4aab84447833",
+    "displayName": "Undercity Phantom",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/wallpaper.png",
+    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+    "levels": [
+      {
+        "uuid": "bbc68d13-42b8-6f2c-d5b2-e79c291677c5",
+        "displayName": "Undercity Phantom",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5",
+        "displayName": "Undercity Phantom",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5/displayicon.png"
+      }
+    ]
+  },
+  "bbc68d13-42b8-6f2c-d5b2-e79c291677c5": {
+    "uuid": "ed3ac995-4fd1-3079-27aa-4aab84447833",
+    "displayName": "Undercity Phantom",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/wallpaper.png",
+    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+    "levels": [
+      {
+        "uuid": "bbc68d13-42b8-6f2c-d5b2-e79c291677c5",
+        "displayName": "Undercity Phantom",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5",
+        "displayName": "Undercity Phantom",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5/displayicon.png"
+      }
+    ]
+  },
   "26094344-4ac4-6656-763a-d2b338fea14a": {
     "uuid": "26094344-4ac4-6656-763a-d2b338fea14a",
     "displayName": "Doombringer Phantom",
@@ -28243,48 +28285,6 @@
         "uuid": "695bd51d-41b0-29ed-c492-1f8bcb8e3568",
         "displayName": "Doombringer Phantom Level 4\r\n(Variant 3 Green)",
         "displayIcon": "https://media.valorant-api.com/weaponskinchromas/695bd51d-41b0-29ed-c492-1f8bcb8e3568/displayicon.png"
-      }
-    ]
-  },
-  "ed3ac995-4fd1-3079-27aa-4aab84447833": {
-    "uuid": "ed3ac995-4fd1-3079-27aa-4aab84447833",
-    "displayName": "Undercity Phantom",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/wallpaper.png",
-    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
-    "levels": [
-      {
-        "uuid": "bbc68d13-42b8-6f2c-d5b2-e79c291677c5",
-        "displayName": "Undercity Phantom",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png"
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5",
-        "displayName": "Undercity Phantom",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5/displayicon.png"
-      }
-    ]
-  },
-  "bbc68d13-42b8-6f2c-d5b2-e79c291677c5": {
-    "uuid": "ed3ac995-4fd1-3079-27aa-4aab84447833",
-    "displayName": "Undercity Phantom",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/ed3ac995-4fd1-3079-27aa-4aab84447833/wallpaper.png",
-    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
-    "levels": [
-      {
-        "uuid": "bbc68d13-42b8-6f2c-d5b2-e79c291677c5",
-        "displayName": "Undercity Phantom",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png"
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5",
-        "displayName": "Undercity Phantom",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/13c7d77d-4b4a-22bd-e886-ab8bda1fb1b5/displayicon.png"
       }
     ]
   },
@@ -37030,6 +37030,48 @@
       }
     ]
   },
+  "e413125e-40c6-cccd-de35-f28e34c57442": {
+    "uuid": "e413125e-40c6-cccd-de35-f28e34c57442",
+    "displayName": "Undercity Judge",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/wallpaper.png",
+    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+    "levels": [
+      {
+        "uuid": "f27be4ed-4fa5-9c3a-592a-b98bb455fd12",
+        "displayName": "Undercity Judge",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "1d574770-4b5e-6bb0-6376-27b79c130f36",
+        "displayName": "Undercity Judge",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1d574770-4b5e-6bb0-6376-27b79c130f36/displayicon.png"
+      }
+    ]
+  },
+  "f27be4ed-4fa5-9c3a-592a-b98bb455fd12": {
+    "uuid": "e413125e-40c6-cccd-de35-f28e34c57442",
+    "displayName": "Undercity Judge",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/wallpaper.png",
+    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+    "levels": [
+      {
+        "uuid": "f27be4ed-4fa5-9c3a-592a-b98bb455fd12",
+        "displayName": "Undercity Judge",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "1d574770-4b5e-6bb0-6376-27b79c130f36",
+        "displayName": "Undercity Judge",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1d574770-4b5e-6bb0-6376-27b79c130f36/displayicon.png"
+      }
+    ]
+  },
   "628302c6-488a-f613-5308-15907fcdc253": {
     "uuid": "628302c6-488a-f613-5308-15907fcdc253",
     "displayName": "Doombringer Judge",
@@ -37282,48 +37324,6 @@
         "uuid": "65a6876c-4aa5-e228-925a-c994d4315fd5",
         "displayName": "Doombringer Judge Level 4\r\n(Variant 3 Green)",
         "displayIcon": "https://media.valorant-api.com/weaponskinchromas/65a6876c-4aa5-e228-925a-c994d4315fd5/displayicon.png"
-      }
-    ]
-  },
-  "e413125e-40c6-cccd-de35-f28e34c57442": {
-    "uuid": "e413125e-40c6-cccd-de35-f28e34c57442",
-    "displayName": "Undercity Judge",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/wallpaper.png",
-    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
-    "levels": [
-      {
-        "uuid": "f27be4ed-4fa5-9c3a-592a-b98bb455fd12",
-        "displayName": "Undercity Judge",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png"
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "1d574770-4b5e-6bb0-6376-27b79c130f36",
-        "displayName": "Undercity Judge",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1d574770-4b5e-6bb0-6376-27b79c130f36/displayicon.png"
-      }
-    ]
-  },
-  "f27be4ed-4fa5-9c3a-592a-b98bb455fd12": {
-    "uuid": "e413125e-40c6-cccd-de35-f28e34c57442",
-    "displayName": "Undercity Judge",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/e413125e-40c6-cccd-de35-f28e34c57442/wallpaper.png",
-    "contentTierUuid": "60bca009-4182-7998-dee7-b8a2558dc369",
-    "levels": [
-      {
-        "uuid": "f27be4ed-4fa5-9c3a-592a-b98bb455fd12",
-        "displayName": "Undercity Judge",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png"
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "1d574770-4b5e-6bb0-6376-27b79c130f36",
-        "displayName": "Undercity Judge",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1d574770-4b5e-6bb0-6376-27b79c130f36/displayicon.png"
       }
     ]
   },
@@ -120960,6 +120960,84 @@
       }
     ]
   },
+  "c91e4850-4d32-3b12-f411-3e9f644ea616": {
+    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
+    "displayName": "Hack",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
+      },
+      {
+        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
+        "displayName": "Hack & Slash",
+        "displayIcon": null
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
+      }
+    ]
+  },
+  "4875e120-4d7d-aa2a-71c5-c0851c4af00d": {
+    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
+    "displayName": "Hack",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
+      },
+      {
+        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
+        "displayName": "Hack & Slash",
+        "displayIcon": null
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
+      }
+    ]
+  },
+  "bde59d0e-4ddc-aa88-5c37-50a84673e0ed": {
+    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
+    "displayName": "Hack",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
+      },
+      {
+        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
+        "displayName": "Hack & Slash",
+        "displayIcon": null
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
+        "displayName": "Hack",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
+      }
+    ]
+  },
   "a9dc6008-4efd-6908-f937-719303898d51": {
     "uuid": "a9dc6008-4efd-6908-f937-719303898d51",
     "displayName": "Doombringer Battleaxe",
@@ -121080,84 +121158,6 @@
         "uuid": "04429e75-483b-930c-9a41-3bb9aae7fb90",
         "displayName": "Doombringer Battleaxe Level 2\r\n(Variant 3 Green)",
         "displayIcon": "https://media.valorant-api.com/weaponskinchromas/04429e75-483b-930c-9a41-3bb9aae7fb90/displayicon.png"
-      }
-    ]
-  },
-  "c91e4850-4d32-3b12-f411-3e9f644ea616": {
-    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
-    "displayName": "Hack",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
-    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
-    "levels": [
-      {
-        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
-      },
-      {
-        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
-        "displayName": "Hack & Slash",
-        "displayIcon": null
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
-      }
-    ]
-  },
-  "4875e120-4d7d-aa2a-71c5-c0851c4af00d": {
-    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
-    "displayName": "Hack",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
-    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
-    "levels": [
-      {
-        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
-      },
-      {
-        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
-        "displayName": "Hack & Slash",
-        "displayIcon": null
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
-      }
-    ]
-  },
-  "bde59d0e-4ddc-aa88-5c37-50a84673e0ed": {
-    "uuid": "c91e4850-4d32-3b12-f411-3e9f644ea616",
-    "displayName": "Hack",
-    "displayIcon": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/displayicon.png",
-    "wallpaper": "https://media.valorant-api.com/weaponskins/c91e4850-4d32-3b12-f411-3e9f644ea616/wallpaper.png",
-    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
-    "levels": [
-      {
-        "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png"
-      },
-      {
-        "uuid": "bde59d0e-4ddc-aa88-5c37-50a84673e0ed",
-        "displayName": "Hack & Slash",
-        "displayIcon": null
-      }
-    ],
-    "chromas": [
-      {
-        "uuid": "2e59d7f8-4932-8196-77c0-c182fb0dc259",
-        "displayName": "Hack",
-        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2e59d7f8-4932-8196-77c0-c182fb0dc259/displayicon.png"
       }
     ]
   },
@@ -130541,6 +130541,210 @@
         "uuid": "614212d0-4f0f-30c7-c98b-5f87c08d9061",
         "displayName": "VCT 2025 Karambit Level 3\r\n(Variant 4 EMEA)",
         "displayIcon": "https://media.valorant-api.com/weaponskinchromas/614212d0-4f0f-30c7-c98b-5f87c08d9061/displayicon.png"
+      }
+    ]
+  },
+  "53c003f5-41f8-f946-7310-1ebfd3509aec": {
+    "uuid": "53c003f5-41f8-f946-7310-1ebfd3509aec",
+    "displayName": "VCT 2026 Sigil",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "fb970da4-4f6a-5cb6-a484-1abf95e6f12d",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fb970da4-4f6a-5cb6-a484-1abf95e6f12d/displayicon.png"
+      },
+      {
+        "uuid": "a4595aee-4cca-e7df-d74f-14a1f80e5227",
+        "displayName": "VCT 2026 Sigil Level 2",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a4595aee-4cca-e7df-d74f-14a1f80e5227/displayicon.png"
+      },
+      {
+        "uuid": "4640803b-4ca0-0f1f-1693-b9ad3e64d454",
+        "displayName": "VCT 2026 Sigil Level 3",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4640803b-4ca0-0f1f-1693-b9ad3e64d454/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "27262e01-4cea-6fcb-b45a-90b95ba59625",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": null
+      },
+      {
+        "uuid": "2acd13c9-4d34-529a-a904-f48dcb59d7cc",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2acd13c9-4d34-529a-a904-f48dcb59d7cc/displayicon.png"
+      },
+      {
+        "uuid": "96180c92-481b-1540-1bca-c98396d1a416",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/96180c92-481b-1540-1bca-c98396d1a416/displayicon.png"
+      },
+      {
+        "uuid": "5fbc662c-4177-f3cd-a8f6-11a3c71ead8c",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5fbc662c-4177-f3cd-a8f6-11a3c71ead8c/displayicon.png"
+      },
+      {
+        "uuid": "3d169773-4065-a572-daeb-0a8cc18d4e1a",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d169773-4065-a572-daeb-0a8cc18d4e1a/displayicon.png"
+      }
+    ]
+  },
+  "fb970da4-4f6a-5cb6-a484-1abf95e6f12d": {
+    "uuid": "53c003f5-41f8-f946-7310-1ebfd3509aec",
+    "displayName": "VCT 2026 Sigil",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "fb970da4-4f6a-5cb6-a484-1abf95e6f12d",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fb970da4-4f6a-5cb6-a484-1abf95e6f12d/displayicon.png"
+      },
+      {
+        "uuid": "a4595aee-4cca-e7df-d74f-14a1f80e5227",
+        "displayName": "VCT 2026 Sigil Level 2",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a4595aee-4cca-e7df-d74f-14a1f80e5227/displayicon.png"
+      },
+      {
+        "uuid": "4640803b-4ca0-0f1f-1693-b9ad3e64d454",
+        "displayName": "VCT 2026 Sigil Level 3",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4640803b-4ca0-0f1f-1693-b9ad3e64d454/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "27262e01-4cea-6fcb-b45a-90b95ba59625",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": null
+      },
+      {
+        "uuid": "2acd13c9-4d34-529a-a904-f48dcb59d7cc",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2acd13c9-4d34-529a-a904-f48dcb59d7cc/displayicon.png"
+      },
+      {
+        "uuid": "96180c92-481b-1540-1bca-c98396d1a416",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/96180c92-481b-1540-1bca-c98396d1a416/displayicon.png"
+      },
+      {
+        "uuid": "5fbc662c-4177-f3cd-a8f6-11a3c71ead8c",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5fbc662c-4177-f3cd-a8f6-11a3c71ead8c/displayicon.png"
+      },
+      {
+        "uuid": "3d169773-4065-a572-daeb-0a8cc18d4e1a",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d169773-4065-a572-daeb-0a8cc18d4e1a/displayicon.png"
+      }
+    ]
+  },
+  "a4595aee-4cca-e7df-d74f-14a1f80e5227": {
+    "uuid": "53c003f5-41f8-f946-7310-1ebfd3509aec",
+    "displayName": "VCT 2026 Sigil",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "fb970da4-4f6a-5cb6-a484-1abf95e6f12d",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fb970da4-4f6a-5cb6-a484-1abf95e6f12d/displayicon.png"
+      },
+      {
+        "uuid": "a4595aee-4cca-e7df-d74f-14a1f80e5227",
+        "displayName": "VCT 2026 Sigil Level 2",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a4595aee-4cca-e7df-d74f-14a1f80e5227/displayicon.png"
+      },
+      {
+        "uuid": "4640803b-4ca0-0f1f-1693-b9ad3e64d454",
+        "displayName": "VCT 2026 Sigil Level 3",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4640803b-4ca0-0f1f-1693-b9ad3e64d454/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "27262e01-4cea-6fcb-b45a-90b95ba59625",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": null
+      },
+      {
+        "uuid": "2acd13c9-4d34-529a-a904-f48dcb59d7cc",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2acd13c9-4d34-529a-a904-f48dcb59d7cc/displayicon.png"
+      },
+      {
+        "uuid": "96180c92-481b-1540-1bca-c98396d1a416",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/96180c92-481b-1540-1bca-c98396d1a416/displayicon.png"
+      },
+      {
+        "uuid": "5fbc662c-4177-f3cd-a8f6-11a3c71ead8c",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5fbc662c-4177-f3cd-a8f6-11a3c71ead8c/displayicon.png"
+      },
+      {
+        "uuid": "3d169773-4065-a572-daeb-0a8cc18d4e1a",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d169773-4065-a572-daeb-0a8cc18d4e1a/displayicon.png"
+      }
+    ]
+  },
+  "4640803b-4ca0-0f1f-1693-b9ad3e64d454": {
+    "uuid": "53c003f5-41f8-f946-7310-1ebfd3509aec",
+    "displayName": "VCT 2026 Sigil",
+    "displayIcon": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/displayicon.png",
+    "wallpaper": "https://media.valorant-api.com/weaponskins/53c003f5-41f8-f946-7310-1ebfd3509aec/wallpaper.png",
+    "contentTierUuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+    "levels": [
+      {
+        "uuid": "fb970da4-4f6a-5cb6-a484-1abf95e6f12d",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/fb970da4-4f6a-5cb6-a484-1abf95e6f12d/displayicon.png"
+      },
+      {
+        "uuid": "a4595aee-4cca-e7df-d74f-14a1f80e5227",
+        "displayName": "VCT 2026 Sigil Level 2",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/a4595aee-4cca-e7df-d74f-14a1f80e5227/displayicon.png"
+      },
+      {
+        "uuid": "4640803b-4ca0-0f1f-1693-b9ad3e64d454",
+        "displayName": "VCT 2026 Sigil Level 3",
+        "displayIcon": "https://media.valorant-api.com/weaponskinlevels/4640803b-4ca0-0f1f-1693-b9ad3e64d454/displayicon.png"
+      }
+    ],
+    "chromas": [
+      {
+        "uuid": "27262e01-4cea-6fcb-b45a-90b95ba59625",
+        "displayName": "VCT 2026 Sigil",
+        "displayIcon": null
+      },
+      {
+        "uuid": "2acd13c9-4d34-529a-a904-f48dcb59d7cc",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/2acd13c9-4d34-529a-a904-f48dcb59d7cc/displayicon.png"
+      },
+      {
+        "uuid": "96180c92-481b-1540-1bca-c98396d1a416",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/96180c92-481b-1540-1bca-c98396d1a416/displayicon.png"
+      },
+      {
+        "uuid": "5fbc662c-4177-f3cd-a8f6-11a3c71ead8c",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/5fbc662c-4177-f3cd-a8f6-11a3c71ead8c/displayicon.png"
+      },
+      {
+        "uuid": "3d169773-4065-a572-daeb-0a8cc18d4e1a",
+        "displayName": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+        "displayIcon": "https://media.valorant-api.com/weaponskinchromas/3d169773-4065-a572-daeb-0a8cc18d4e1a/displayicon.png"
       }
     ]
   },

@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { fetchAndDisplaySeasonReport, handleSeasonPagination } = require('./utils/seasonReport');
 const { fetchAndDisplayMatchHistory, fetchAndDisplayMatchDetail } = require('./utils/matchHistory');
-const { fetchAndDisplayStats } = require('./utils/valorantStats');
+const { fetchAndDisplayStats, fetchAndDisplayWeaponStats } = require('./utils/valorantStats');
 const { checkBanMiddleware } = require('./utils/banManager');
 const { initializeAllData } = require('./utils/skinData');
 
@@ -87,6 +87,23 @@ client.on('interactionCreate', async (interaction) => {
             }
             return;
         }
+
+        // Bug report modal
+        if (interaction.customId === 'bug_report_modal') {
+            try {
+                const reportCommand = client.commands.get('report');
+                if (reportCommand && reportCommand.handleModalSubmit) {
+                    await reportCommand.handleModalSubmit(interaction);
+                }
+            } catch (error) {
+                console.error('Error handling bug report modal:', error);
+                await interaction.reply({ 
+                    content: '❌ An error occurred while submitting your report!', 
+                    flags: MessageFlags.Ephemeral 
+                });
+            }
+            return;
+        }
     }
 
     // Handle Button interactions
@@ -108,23 +125,7 @@ client.on('interactionCreate', async (interaction) => {
             return;
         }
 
-        // Shop buttons (Skin shop / Accessory shop)
-        if (interaction.customId === 'shop_skins' || interaction.customId === 'shop_accessories') {
-            try {
-                const shopCommand = client.commands.get('shop');
-                if (shopCommand && shopCommand.handleButton) {
-                    const type = interaction.customId === 'shop_skins' ? 'skins' : 'accessories';
-                    await shopCommand.handleButton(interaction, type);
-                }
-            } catch (error) {
-                console.error('Error handling shop button:', error);
-                await interaction.reply({ 
-                    content: '❌ An error occurred!', 
-                    flags: MessageFlags.Ephemeral 
-                });
-            }
-            return;
-        }
+        // Shop buttons disabled (accessory shop removed)
 
         // Performance button
         if (interaction.customId.startsWith('valorant_performance_')) {
@@ -205,6 +206,34 @@ client.on('interactionCreate', async (interaction) => {
 
     // Handle Select Menu interactions
     if (interaction.isStringSelectMenu()) {
+        // Profile menu dropdown (Performance, Match History, Weapon Stats)
+        if (interaction.customId === 'valorant_profile_menu') {
+            try {
+                const value = interaction.values[0];
+                const parts = value.split('_');
+                const action = parts[0]; // 'performance', 'matches', or 'weapons'
+                const encodedPlayer = parts.slice(1).join('_');
+                const playerIdentifier = Buffer.from(encodedPlayer, 'base64').toString('utf-8');
+                
+                await interaction.deferUpdate();
+                
+                if (action === 'performance') {
+                    await fetchAndDisplaySeasonReport(interaction, playerIdentifier);
+                } else if (action === 'matches') {
+                    await fetchAndDisplayMatchHistory(interaction, playerIdentifier);
+                } else if (action === 'weapons') {
+                    await fetchAndDisplayWeaponStats(interaction, playerIdentifier);
+                }
+            } catch (error) {
+                console.error('Error handling profile menu:', error);
+                await interaction.reply({ 
+                    content: '❌ An error occurred!', 
+                    flags: MessageFlags.Ephemeral 
+                });
+            }
+            return;
+        }
+
         // Match detail dropdown
         if (interaction.customId === 'match_detail_select') {
             try {

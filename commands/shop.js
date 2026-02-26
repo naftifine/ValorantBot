@@ -72,23 +72,9 @@ module.exports = {
             // Build the embeds for skin shop (4 separate embeds)
             const skinEmbeds = buildSkinShopEmbeds(userData, skinOffers, timeRemaining);
             
-            // Build action row with buttons
-            const row = new ActionRowBuilder()
-                .addComponents(
-                    new ButtonBuilder()
-                        .setCustomId('shop_skins')
-                        .setLabel('🔫 Skin shop')
-                        .setStyle(ButtonStyle.Secondary)
-                        .setDisabled(true),
-                    new ButtonBuilder()
-                        .setCustomId('shop_accessories')
-                        .setLabel('🎒 Accessory shop')
-                        .setStyle(ButtonStyle.Primary)
-                );
-
+            // Accessory shop disabled
             await interaction.editReply({
-                embeds: skinEmbeds,
-                components: [row]
+                embeds: skinEmbeds
             });
 
         } catch (error) {
@@ -99,102 +85,7 @@ module.exports = {
         }
     },
 
-    // Handle shop button interactions
-    async handleButton(interaction, type) {
-        try {
-            // Load user data
-            const dataPath = path.join(__dirname, '..', 'data', 'data.json');
-            const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
-            const userData = data[interaction.user.id];
-
-            if (!userData) {
-                return await interaction.reply({
-                    content: '❌ You need to login first!',
-                    flags: MessageFlags.Ephemeral
-                });
-            }
-
-            // Get entitlement token
-            const entitlementToken = await getEntitlementToken(userData.access_token);
-            
-            if (!entitlementToken) {
-                return await interaction.reply({
-                    content: '❌ Your session has expired. Please use `/login` to re-authenticate.',
-                    flags: MessageFlags.Ephemeral
-                });
-            }
-
-            // Get stores
-            const storefront = await getStorefront(
-                userData.access_token,
-                entitlementToken,
-                userData.puuid,
-                userData.region
-            );
-
-            const accessoryStore = await getAccessoryStore(
-                userData.access_token,
-                entitlementToken,
-                userData.puuid,
-                userData.region
-            );
-
-            let row;
-
-            if (type === 'skins') {
-                const skinOffers = parseSkinOffers(storefront);
-                const timeRemaining = formatTimeRemaining(storefront?.SkinsPanelLayout?.SingleItemOffersRemainingDurationInSeconds);
-                const embeds = buildSkinShopEmbeds(userData, skinOffers, timeRemaining);
-                
-                row = new ActionRowBuilder()
-                    .addComponents(
-                        new ButtonBuilder()
-                            .setCustomId('shop_skins')
-                            .setLabel('🔫 Skin shop')
-                            .setStyle(ButtonStyle.Secondary)
-                            .setDisabled(true),
-                        new ButtonBuilder()
-                            .setCustomId('shop_accessories')
-                            .setLabel('🎒 Accessory shop')
-                            .setStyle(ButtonStyle.Primary)
-                    );
-
-                await interaction.update({
-                    embeds: embeds,
-                    components: [row]
-                });
-            } else {
-                const accessoryOffers = parseAccessoryOffers(accessoryStore);
-                const timeRemaining = formatTimeRemaining(accessoryStore?.AccessoryStore?.AccessoryStoreRemainingDurationInSeconds);
-                const embed = buildAccessoryShopEmbed(userData, accessoryOffers, timeRemaining);
-                
-                row = new ActionRowBuilder()
-                    .addComponents(
-                        new ButtonBuilder()
-                            .setCustomId('shop_skins')
-                            .setLabel('🔫 Skin shop')
-                            .setStyle(ButtonStyle.Primary),
-                        new ButtonBuilder()
-                            .setCustomId('shop_accessories')
-                            .setLabel('🎒 Accessory shop')
-                            .setStyle(ButtonStyle.Secondary)
-                            .setDisabled(true)
-                    );
-
-                await interaction.update({
-                    embeds: [embed],
-                    components: [row]
-                });
-            }
-
-        } catch (error) {
-            console.error('Shop button error:', error);
-            await interaction.reply({
-                content: '❌ An error occurred. Please try again.',
-                flags: MessageFlags.Ephemeral
-            });
-        }
-    }
+    // handleButton disabled - accessory shop removed
 };
 
 /**
@@ -289,18 +180,13 @@ function parseAccessoryOffers(accessoryStore) {
 }
 
 /**
- * Format time remaining in hours
+ * Format time remaining as Discord timestamp
  */
 function formatTimeRemaining(seconds) {
     if (!seconds) return 'Unknown';
     
-    const hours = Math.floor(seconds / 3600);
-    const minutes = Math.floor((seconds % 3600) / 60);
-    
-    if (hours > 0) {
-        return `${hours} hour${hours > 1 ? 's' : ''}`;
-    }
-    return `${minutes} minute${minutes > 1 ? 's' : ''}`;
+    const resetTime = Math.floor(Date.now() / 1000) + seconds;
+    return `<t:${resetTime}:R>`;
 }
 
 /**
@@ -322,7 +208,7 @@ function buildSkinShopEmbeds(userData, offers, timeRemaining) {
     // Header embed
     const headerEmbed = new EmbedBuilder()
         .setColor('#FF4654')
-        .setAuthor({ name: `Daily shop for ${riotId} (new shop in ${timeRemaining})` })
+        .setDescription(`Daily shop for **${riotId}** (new shop ${timeRemaining})`)
     embeds.push(headerEmbed);
 
     // Create an embed for each skin (max 4)
@@ -344,7 +230,8 @@ function buildSkinShopEmbeds(userData, offers, timeRemaining) {
 
         const skinEmbed = new EmbedBuilder()
             .setColor(color)
-            .setTitle(`${tierEmote} ${offer.name}`);
+            .setTitle(`${tierEmote} ${offer.name}`)
+            .setDescription(`<:valorant_point:1475166091662590012> ${offer.price.toLocaleString()}`);
 
         // Add skin image as thumbnail (small, on the right)
         if (offer.icon) {
@@ -388,8 +275,8 @@ function buildAccessoryShopEmbed(userData, offers, timeRemaining) {
 
     const embed = new EmbedBuilder()
         .setColor('#5865F2')
-        .setAuthor({ name: `Accessory shop for ${riotId} (new shop in ${timeRemaining})` })
-        .setDescription(description);
+        .setAuthor({ name: `Accessory shop for ${riotId}` })
+        .setDescription(`Resets ${timeRemaining}\n\n${description}`);
 
     return embed;
 }

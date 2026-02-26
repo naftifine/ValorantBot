@@ -1023,110 +1023,6 @@
     "wideArt": "https://media.valorant-api.com/playercards/cdd5bd6e-44dd-ba94-f055-ac8a6e69472a/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/cdd5bd6e-44dd-ba94-f055-ac8a6e69472a/largeart.png"
   },
-  "a8880f4d-46d0-67ea-9013-4f9b757b3794": {
-    "uuid": "a8880f4d-46d0-67ea-9013-4f9b757b3794",
-    "displayName": "Moonlit Chase Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/largeart.png"
-  },
-  "bc5312cc-417c-99cd-2b65-fe8ada60950b": {
-    "uuid": "bc5312cc-417c-99cd-2b65-fe8ada60950b",
-    "displayName": "Tight-Knit Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/largeart.png"
-  },
-  "ea9b0955-4b61-aa64-1c68-5398b59c721e": {
-    "uuid": "ea9b0955-4b61-aa64-1c68-5398b59c721e",
-    "displayName": "Venturi Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/largeart.png"
-  },
-  "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f": {
-    "uuid": "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f",
-    "displayName": "Cat and Mouse Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/largeart.png"
-  },
-  "bdc0c02c-441c-8ebc-ec5e-27bff0888ae0": {
-    "uuid": "bdc0c02c-441c-8ebc-ec5e-27bff0888ae0",
-    "displayName": "Late Night Snack Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/largeart.png"
-  },
-  "6d30599a-4a4a-5dc0-043e-0aaf39bb83ad": {
-    "uuid": "6d30599a-4a4a-5dc0-043e-0aaf39bb83ad",
-    "displayName": "Scars that Bond Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/largeart.png"
-  },
-  "1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe": {
-    "uuid": "1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe",
-    "displayName": "9 Lives Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/largeart.png"
-  },
-  "59ed0836-4bd9-95a5-14c1-ed87ed786d06": {
-    "uuid": "59ed0836-4bd9-95a5-14c1-ed87ed786d06",
-    "displayName": "Playzilla Dan Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/largeart.png"
-  },
-  "ddfd99f7-4160-a417-0fce-ba8eb2af3976": {
-    "uuid": "ddfd99f7-4160-a417-0fce-ba8eb2af3976",
-    "displayName": "Ultimate Collector Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/largeart.png"
-  },
-  "03958624-4e51-3309-a7b0-7c8af48802bb": {
-    "uuid": "03958624-4e51-3309-a7b0-7c8af48802bb",
-    "displayName": "Epilogue: Ultimate Collector Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/largeart.png"
-  },
-  "f09db5d0-42a0-6225-588d-e3b92ef956d5": {
-    "uuid": "f09db5d0-42a0-6225-588d-e3b92ef956d5",
-    "displayName": "DUO // Field Command Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/largeart.png"
-  },
-  "aeb4ce01-4781-9330-43cb-b991d1122c99": {
-    "uuid": "aeb4ce01-4781-9330-43cb-b991d1122c99",
-    "displayName": "Gridcrash Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/largeart.png"
-  },
-  "aec1bd79-40f8-664f-c129-89ac42fec426": {
-    "uuid": "aec1bd79-40f8-664f-c129-89ac42fec426",
-    "displayName": "Rift Rider Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/largeart.png"
-  },
   "8b26fe6c-409e-6ce8-3dc1-50ae5a503805": {
     "uuid": "8b26fe6c-409e-6ce8-3dc1-50ae5a503805",
     "displayName": "Ares Schema Card",
@@ -2286,6 +2182,110 @@
     "smallArt": "https://media.valorant-api.com/playercards/eba5be7e-4ec7-753b-8678-fa88da1e46ab/smallart.png",
     "wideArt": "https://media.valorant-api.com/playercards/eba5be7e-4ec7-753b-8678-fa88da1e46ab/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/eba5be7e-4ec7-753b-8678-fa88da1e46ab/largeart.png"
+  },
+  "a8880f4d-46d0-67ea-9013-4f9b757b3794": {
+    "uuid": "a8880f4d-46d0-67ea-9013-4f9b757b3794",
+    "displayName": "Moonlit Chase Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/a8880f4d-46d0-67ea-9013-4f9b757b3794/largeart.png"
+  },
+  "bc5312cc-417c-99cd-2b65-fe8ada60950b": {
+    "uuid": "bc5312cc-417c-99cd-2b65-fe8ada60950b",
+    "displayName": "Tight-Knit Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/bc5312cc-417c-99cd-2b65-fe8ada60950b/largeart.png"
+  },
+  "ea9b0955-4b61-aa64-1c68-5398b59c721e": {
+    "uuid": "ea9b0955-4b61-aa64-1c68-5398b59c721e",
+    "displayName": "Venturi Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/ea9b0955-4b61-aa64-1c68-5398b59c721e/largeart.png"
+  },
+  "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f": {
+    "uuid": "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f",
+    "displayName": "Cat and Mouse Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/largeart.png"
+  },
+  "bdc0c02c-441c-8ebc-ec5e-27bff0888ae0": {
+    "uuid": "bdc0c02c-441c-8ebc-ec5e-27bff0888ae0",
+    "displayName": "Late Night Snack Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/bdc0c02c-441c-8ebc-ec5e-27bff0888ae0/largeart.png"
+  },
+  "6d30599a-4a4a-5dc0-043e-0aaf39bb83ad": {
+    "uuid": "6d30599a-4a4a-5dc0-043e-0aaf39bb83ad",
+    "displayName": "Scars that Bond Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/6d30599a-4a4a-5dc0-043e-0aaf39bb83ad/largeart.png"
+  },
+  "1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe": {
+    "uuid": "1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe",
+    "displayName": "9 Lives Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/1c0a3c3b-40bd-ed6b-c374-e2887d8a16fe/largeart.png"
+  },
+  "59ed0836-4bd9-95a5-14c1-ed87ed786d06": {
+    "uuid": "59ed0836-4bd9-95a5-14c1-ed87ed786d06",
+    "displayName": "Playzilla Dan Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/59ed0836-4bd9-95a5-14c1-ed87ed786d06/largeart.png"
+  },
+  "ddfd99f7-4160-a417-0fce-ba8eb2af3976": {
+    "uuid": "ddfd99f7-4160-a417-0fce-ba8eb2af3976",
+    "displayName": "Ultimate Collector Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/ddfd99f7-4160-a417-0fce-ba8eb2af3976/largeart.png"
+  },
+  "03958624-4e51-3309-a7b0-7c8af48802bb": {
+    "uuid": "03958624-4e51-3309-a7b0-7c8af48802bb",
+    "displayName": "Epilogue: Ultimate Collector Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/03958624-4e51-3309-a7b0-7c8af48802bb/largeart.png"
+  },
+  "f09db5d0-42a0-6225-588d-e3b92ef956d5": {
+    "uuid": "f09db5d0-42a0-6225-588d-e3b92ef956d5",
+    "displayName": "DUO // Field Command Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/f09db5d0-42a0-6225-588d-e3b92ef956d5/largeart.png"
+  },
+  "aeb4ce01-4781-9330-43cb-b991d1122c99": {
+    "uuid": "aeb4ce01-4781-9330-43cb-b991d1122c99",
+    "displayName": "Gridcrash Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/aeb4ce01-4781-9330-43cb-b991d1122c99/largeart.png"
+  },
+  "aec1bd79-40f8-664f-c129-89ac42fec426": {
+    "uuid": "aec1bd79-40f8-664f-c129-89ac42fec426",
+    "displayName": "Rift Rider Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/aec1bd79-40f8-664f-c129-89ac42fec426/largeart.png"
   },
   "72f9b137-41f1-ef95-853a-798212f064ee": {
     "uuid": "72f9b137-41f1-ef95-853a-798212f064ee",
@@ -3471,14 +3471,6 @@
     "wideArt": "https://media.valorant-api.com/playercards/eaed8ce8-4d64-0758-3355-1ebf5643d1c0/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/eaed8ce8-4d64-0758-3355-1ebf5643d1c0/largeart.png"
   },
-  "7fcf4732-4cc9-ccc6-7818-58bbf983b0f9": {
-    "uuid": "7fcf4732-4cc9-ccc6-7818-58bbf983b0f9",
-    "displayName": "Give Back // V25 Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/wideart.png",
-    "largeArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/largeart.png"
-  },
   "0dc1ec29-48be-4b91-ef57-f8a0ea978bb9": {
     "uuid": "0dc1ec29-48be-4b91-ef57-f8a0ea978bb9",
     "displayName": "Give Back // 2024 Card",
@@ -3486,6 +3478,14 @@
     "smallArt": "https://media.valorant-api.com/playercards/0dc1ec29-48be-4b91-ef57-f8a0ea978bb9/smallart.png",
     "wideArt": "https://media.valorant-api.com/playercards/0dc1ec29-48be-4b91-ef57-f8a0ea978bb9/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/0dc1ec29-48be-4b91-ef57-f8a0ea978bb9/largeart.png"
+  },
+  "7fcf4732-4cc9-ccc6-7818-58bbf983b0f9": {
+    "uuid": "7fcf4732-4cc9-ccc6-7818-58bbf983b0f9",
+    "displayName": "Give Back // V25 Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/7fcf4732-4cc9-ccc6-7818-58bbf983b0f9/largeart.png"
   },
   "eb741e28-4545-92a3-cb5a-6a8de025e9b7": {
     "uuid": "eb741e28-4545-92a3-cb5a-6a8de025e9b7",
@@ -3670,6 +3670,14 @@
     "smallArt": "https://media.valorant-api.com/playercards/dc290f6b-4b64-55a2-a0a0-a395c6bf82ec/smallart.png",
     "wideArt": "https://media.valorant-api.com/playercards/dc290f6b-4b64-55a2-a0a0-a395c6bf82ec/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/dc290f6b-4b64-55a2-a0a0-a395c6bf82ec/largeart.png"
+  },
+  "33f3c143-4da0-b595-5f70-faa2ab7eba3e": {
+    "uuid": "33f3c143-4da0-b595-5f70-faa2ab7eba3e",
+    "displayName": "For Retribution Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/33f3c143-4da0-b595-5f70-faa2ab7eba3e/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/33f3c143-4da0-b595-5f70-faa2ab7eba3e/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/33f3c143-4da0-b595-5f70-faa2ab7eba3e/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/33f3c143-4da0-b595-5f70-faa2ab7eba3e/largeart.png"
   },
   "6a578461-430d-e0a9-d67e-4c967e0bdf1a": {
     "uuid": "6a578461-430d-e0a9-d67e-4c967e0bdf1a",
@@ -3911,6 +3919,14 @@
     "wideArt": "https://media.valorant-api.com/playercards/5ba07e41-4a7a-d618-2250-fd88a2e476c0/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/5ba07e41-4a7a-d618-2250-fd88a2e476c0/largeart.png"
   },
+  "6a3cc137-4eab-80cd-ca4a-cf8bbaa09467": {
+    "uuid": "6a3cc137-4eab-80cd-ca4a-cf8bbaa09467",
+    "displayName": "PREMIER V26A1 Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/6a3cc137-4eab-80cd-ca4a-cf8bbaa09467/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/6a3cc137-4eab-80cd-ca4a-cf8bbaa09467/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/6a3cc137-4eab-80cd-ca4a-cf8bbaa09467/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/6a3cc137-4eab-80cd-ca4a-cf8bbaa09467/largeart.png"
+  },
   "bb5cedcd-4ed9-ee2e-f129-48bf60a8e540": {
     "uuid": "bb5cedcd-4ed9-ee2e-f129-48bf60a8e540",
     "displayName": "Duality Card",
@@ -4046,6 +4062,14 @@
     "smallArt": "https://media.valorant-api.com/playercards/19649cb5-4255-1875-abba-0f8195a2d295/smallart.png",
     "wideArt": "https://media.valorant-api.com/playercards/19649cb5-4255-1875-abba-0f8195a2d295/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/19649cb5-4255-1875-abba-0f8195a2d295/largeart.png"
+  },
+  "3204a3ec-4198-2796-95bd-2f850cabd155": {
+    "uuid": "3204a3ec-4198-2796-95bd-2f850cabd155",
+    "displayName": "Hatchbudz: Quacked Series Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/3204a3ec-4198-2796-95bd-2f850cabd155/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/3204a3ec-4198-2796-95bd-2f850cabd155/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/3204a3ec-4198-2796-95bd-2f850cabd155/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/3204a3ec-4198-2796-95bd-2f850cabd155/largeart.png"
   },
   "29f89efd-4613-c244-fc54-8fb6da4f88e3": {
     "uuid": "29f89efd-4613-c244-fc54-8fb6da4f88e3",
@@ -5927,6 +5951,38 @@
     "wideArt": "https://media.valorant-api.com/playercards/59a44824-48da-930c-7e0f-f8b33327ad45/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/59a44824-48da-930c-7e0f-f8b33327ad45/largeart.png"
   },
+  "5dbce150-4e13-9f32-06cb-9ead45c8a258": {
+    "uuid": "5dbce150-4e13-9f32-06cb-9ead45c8a258",
+    "displayName": "VCT 2026 Americas Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/5dbce150-4e13-9f32-06cb-9ead45c8a258/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/5dbce150-4e13-9f32-06cb-9ead45c8a258/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/5dbce150-4e13-9f32-06cb-9ead45c8a258/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/5dbce150-4e13-9f32-06cb-9ead45c8a258/largeart.png"
+  },
+  "16590c2b-4cd8-a70b-d801-85a1349b8df3": {
+    "uuid": "16590c2b-4cd8-a70b-d801-85a1349b8df3",
+    "displayName": "VCT 2026 CN Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/16590c2b-4cd8-a70b-d801-85a1349b8df3/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/16590c2b-4cd8-a70b-d801-85a1349b8df3/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/16590c2b-4cd8-a70b-d801-85a1349b8df3/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/16590c2b-4cd8-a70b-d801-85a1349b8df3/largeart.png"
+  },
+  "c82aaade-4b61-36d7-cc1f-11b1f9cd6f85": {
+    "uuid": "c82aaade-4b61-36d7-cc1f-11b1f9cd6f85",
+    "displayName": "VCT 2026 EMEA Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/c82aaade-4b61-36d7-cc1f-11b1f9cd6f85/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/c82aaade-4b61-36d7-cc1f-11b1f9cd6f85/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/c82aaade-4b61-36d7-cc1f-11b1f9cd6f85/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/c82aaade-4b61-36d7-cc1f-11b1f9cd6f85/largeart.png"
+  },
+  "a7e78a56-4557-383e-72a1-95ae97bcf2c1": {
+    "uuid": "a7e78a56-4557-383e-72a1-95ae97bcf2c1",
+    "displayName": "VCT 2026 Pacific Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/a7e78a56-4557-383e-72a1-95ae97bcf2c1/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/a7e78a56-4557-383e-72a1-95ae97bcf2c1/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/a7e78a56-4557-383e-72a1-95ae97bcf2c1/wideart.png",
+    "largeArt": "https://media.valorant-api.com/playercards/a7e78a56-4557-383e-72a1-95ae97bcf2c1/largeart.png"
+  },
   "89605a51-4778-0f1d-067a-22acea6d19ff": {
     "uuid": "89605a51-4778-0f1d-067a-22acea6d19ff",
     "displayName": "VCT x 100T Card",
@@ -6943,6 +6999,14 @@
     "wideArt": "https://media.valorant-api.com/playercards/49a8b217-4e35-6ec7-9417-76918477c863/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/49a8b217-4e35-6ec7-9417-76918477c863/largeart.png"
   },
+  "afde77eb-4bdf-612d-d047-998c1847cd77": {
+    "uuid": "afde77eb-4bdf-612d-d047-998c1847cd77",
+    "displayName": "5 Years // Beta Remastered Card",
+    "displayIcon": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/displayicon.png",
+    "smallArt": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/smallart.png",
+    "wideArt": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/wideart.png",
+    "largeArt": null
+  },
   "5a6961da-4936-f39a-539a-b8b8f151b73a": {
     "uuid": "5a6961da-4936-f39a-539a-b8b8f151b73a",
     "displayName": "Thread Swap Card",
@@ -6982,14 +7046,6 @@
     "smallArt": "https://media.valorant-api.com/playercards/2ffc86da-479f-0023-1d8a-3581224a88e0/smallart.png",
     "wideArt": "https://media.valorant-api.com/playercards/2ffc86da-479f-0023-1d8a-3581224a88e0/wideart.png",
     "largeArt": "https://media.valorant-api.com/playercards/2ffc86da-479f-0023-1d8a-3581224a88e0/largeart.png"
-  },
-  "afde77eb-4bdf-612d-d047-998c1847cd77": {
-    "uuid": "afde77eb-4bdf-612d-d047-998c1847cd77",
-    "displayName": "5 Years // Beta Remastered Card",
-    "displayIcon": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/displayicon.png",
-    "smallArt": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/smallart.png",
-    "wideArt": "https://media.valorant-api.com/playercards/afde77eb-4bdf-612d-d047-998c1847cd77/wideart.png",
-    "largeArt": null
   },
   "95d3bbd1-4cf6-543b-0237-ba876d886210": {
     "uuid": "95d3bbd1-4cf6-543b-0237-ba876d886210",

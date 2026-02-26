@@ -5615,6 +5615,30 @@
       }
     ]
   },
+  "7f625bc9-4f70-66bc-7381-cfb1336ddb5b": {
+    "uuid": "7f625bc9-4f70-66bc-7381-cfb1336ddb5b",
+    "displayName": "Give Back // 2024 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7f625bc9-4f70-66bc-7381-cfb1336ddb5b/displayicon.png",
+    "levels": [
+      {
+        "uuid": "53ab7633-4c44-4d6a-5e87-81abf8507254",
+        "displayName": "Givebackbundle24",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/53ab7633-4c44-4d6a-5e87-81abf8507254/displayicon.png"
+      }
+    ]
+  },
+  "53ab7633-4c44-4d6a-5e87-81abf8507254": {
+    "uuid": "7f625bc9-4f70-66bc-7381-cfb1336ddb5b",
+    "displayName": "Give Back // 2024 Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7f625bc9-4f70-66bc-7381-cfb1336ddb5b/displayicon.png",
+    "levels": [
+      {
+        "uuid": "53ab7633-4c44-4d6a-5e87-81abf8507254",
+        "displayName": "Givebackbundle24",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/53ab7633-4c44-4d6a-5e87-81abf8507254/displayicon.png"
+      }
+    ]
+  },
   "6b36634f-4ee1-bdb3-fa82-a5b0987e08e1": {
     "uuid": "6b36634f-4ee1-bdb3-fa82-a5b0987e08e1",
     "displayName": "Give Back // V25 Buddy",
@@ -5660,30 +5684,6 @@
         "uuid": "a35bfe0c-45c3-494c-8b2d-70b8c8c56dee",
         "displayName": "Givebackbundle23",
         "displayIcon": "https://media.valorant-api.com/buddylevels/a35bfe0c-45c3-494c-8b2d-70b8c8c56dee/displayicon.png"
-      }
-    ]
-  },
-  "7f625bc9-4f70-66bc-7381-cfb1336ddb5b": {
-    "uuid": "7f625bc9-4f70-66bc-7381-cfb1336ddb5b",
-    "displayName": "Give Back // 2024 Buddy",
-    "displayIcon": "https://media.valorant-api.com/buddies/7f625bc9-4f70-66bc-7381-cfb1336ddb5b/displayicon.png",
-    "levels": [
-      {
-        "uuid": "53ab7633-4c44-4d6a-5e87-81abf8507254",
-        "displayName": "Givebackbundle24",
-        "displayIcon": "https://media.valorant-api.com/buddylevels/53ab7633-4c44-4d6a-5e87-81abf8507254/displayicon.png"
-      }
-    ]
-  },
-  "53ab7633-4c44-4d6a-5e87-81abf8507254": {
-    "uuid": "7f625bc9-4f70-66bc-7381-cfb1336ddb5b",
-    "displayName": "Give Back // 2024 Buddy",
-    "displayIcon": "https://media.valorant-api.com/buddies/7f625bc9-4f70-66bc-7381-cfb1336ddb5b/displayicon.png",
-    "levels": [
-      {
-        "uuid": "53ab7633-4c44-4d6a-5e87-81abf8507254",
-        "displayName": "Givebackbundle24",
-        "displayIcon": "https://media.valorant-api.com/buddylevels/53ab7633-4c44-4d6a-5e87-81abf8507254/displayicon.png"
       }
     ]
   },
@@ -9455,6 +9455,30 @@
       }
     ]
   },
+  "7581a1be-4c37-1149-3c01-ae941d674005": {
+    "uuid": "7581a1be-4c37-1149-3c01-ae941d674005",
+    "displayName": "Hatchbudz: Quacked Series Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7581a1be-4c37-1149-3c01-ae941d674005/displayicon.png",
+    "levels": [
+      {
+        "uuid": "0e4637ad-4dde-9e56-5248-779e083c36bb",
+        "displayName": "Poptoy",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/0e4637ad-4dde-9e56-5248-779e083c36bb/displayicon.png"
+      }
+    ]
+  },
+  "0e4637ad-4dde-9e56-5248-779e083c36bb": {
+    "uuid": "7581a1be-4c37-1149-3c01-ae941d674005",
+    "displayName": "Hatchbudz: Quacked Series Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/7581a1be-4c37-1149-3c01-ae941d674005/displayicon.png",
+    "levels": [
+      {
+        "uuid": "0e4637ad-4dde-9e56-5248-779e083c36bb",
+        "displayName": "Poptoy",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/0e4637ad-4dde-9e56-5248-779e083c36bb/displayicon.png"
+      }
+    ]
+  },
   "3275436e-4b32-5d1f-6056-2d80132c88f8": {
     "uuid": "3275436e-4b32-5d1f-6056-2d80132c88f8",
     "displayName": "Artisan Buddy",
@@ -11396,6 +11420,150 @@
         "uuid": "387bca70-4724-e095-bc57-5a83999e91f9",
         "displayName": "PremierV25A6_Open",
         "displayIcon": "https://media.valorant-api.com/buddylevels/387bca70-4724-e095-bc57-5a83999e91f9/displayicon.png"
+      }
+    ]
+  },
+  "036bfdda-4dfc-c145-0d23-6091667a3caa": {
+    "uuid": "036bfdda-4dfc-c145-0d23-6091667a3caa",
+    "displayName": "PREMIER V26A1 CHAMPION // ADV Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/036bfdda-4dfc-c145-0d23-6091667a3caa/displayicon.png",
+    "levels": [
+      {
+        "uuid": "371776e1-40d9-7ad8-3659-59a2e00f1227",
+        "displayName": "PremierV26A1_Advanced",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/371776e1-40d9-7ad8-3659-59a2e00f1227/displayicon.png"
+      }
+    ]
+  },
+  "371776e1-40d9-7ad8-3659-59a2e00f1227": {
+    "uuid": "036bfdda-4dfc-c145-0d23-6091667a3caa",
+    "displayName": "PREMIER V26A1 CHAMPION // ADV Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/036bfdda-4dfc-c145-0d23-6091667a3caa/displayicon.png",
+    "levels": [
+      {
+        "uuid": "371776e1-40d9-7ad8-3659-59a2e00f1227",
+        "displayName": "PremierV26A1_Advanced",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/371776e1-40d9-7ad8-3659-59a2e00f1227/displayicon.png"
+      }
+    ]
+  },
+  "ff2f62b5-46e8-d838-a78f-3782722b33eb": {
+    "uuid": "ff2f62b5-46e8-d838-a78f-3782722b33eb",
+    "displayName": "PREMIER V26A1 CHAMPION // CTD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ff2f62b5-46e8-d838-a78f-3782722b33eb/displayicon.png",
+    "levels": [
+      {
+        "uuid": "08f9ce7e-4a45-932a-aa39-209395fc5ae1",
+        "displayName": "PremierV26A1_Contender",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/08f9ce7e-4a45-932a-aa39-209395fc5ae1/displayicon.png"
+      }
+    ]
+  },
+  "08f9ce7e-4a45-932a-aa39-209395fc5ae1": {
+    "uuid": "ff2f62b5-46e8-d838-a78f-3782722b33eb",
+    "displayName": "PREMIER V26A1 CHAMPION // CTD Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/ff2f62b5-46e8-d838-a78f-3782722b33eb/displayicon.png",
+    "levels": [
+      {
+        "uuid": "08f9ce7e-4a45-932a-aa39-209395fc5ae1",
+        "displayName": "PremierV26A1_Contender",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/08f9ce7e-4a45-932a-aa39-209395fc5ae1/displayicon.png"
+      }
+    ]
+  },
+  "14ba9708-48ab-e0bd-4aa0-568f10bc53f1": {
+    "uuid": "14ba9708-48ab-e0bd-4aa0-568f10bc53f1",
+    "displayName": "PREMIER V26A1 CHAMPION // ELT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/14ba9708-48ab-e0bd-4aa0-568f10bc53f1/displayicon.png",
+    "levels": [
+      {
+        "uuid": "4a32cede-472d-8194-65c7-fcbc4765ec75",
+        "displayName": "PremierV26A1_Elite",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/4a32cede-472d-8194-65c7-fcbc4765ec75/displayicon.png"
+      }
+    ]
+  },
+  "4a32cede-472d-8194-65c7-fcbc4765ec75": {
+    "uuid": "14ba9708-48ab-e0bd-4aa0-568f10bc53f1",
+    "displayName": "PREMIER V26A1 CHAMPION // ELT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/14ba9708-48ab-e0bd-4aa0-568f10bc53f1/displayicon.png",
+    "levels": [
+      {
+        "uuid": "4a32cede-472d-8194-65c7-fcbc4765ec75",
+        "displayName": "PremierV26A1_Elite",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/4a32cede-472d-8194-65c7-fcbc4765ec75/displayicon.png"
+      }
+    ]
+  },
+  "58e66117-43c2-7af7-a809-6380a299261d": {
+    "uuid": "58e66117-43c2-7af7-a809-6380a299261d",
+    "displayName": "PREMIER V26A1 CHAMPION // INT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/58e66117-43c2-7af7-a809-6380a299261d/displayicon.png",
+    "levels": [
+      {
+        "uuid": "0c82bf52-457c-8116-b6a7-f9acf9bea09e",
+        "displayName": "PremierV26A1_Intermediate",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/0c82bf52-457c-8116-b6a7-f9acf9bea09e/displayicon.png"
+      }
+    ]
+  },
+  "0c82bf52-457c-8116-b6a7-f9acf9bea09e": {
+    "uuid": "58e66117-43c2-7af7-a809-6380a299261d",
+    "displayName": "PREMIER V26A1 CHAMPION // INT Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/58e66117-43c2-7af7-a809-6380a299261d/displayicon.png",
+    "levels": [
+      {
+        "uuid": "0c82bf52-457c-8116-b6a7-f9acf9bea09e",
+        "displayName": "PremierV26A1_Intermediate",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/0c82bf52-457c-8116-b6a7-f9acf9bea09e/displayicon.png"
+      }
+    ]
+  },
+  "a9396bd8-415a-7b42-d151-19bade765a9c": {
+    "uuid": "a9396bd8-415a-7b42-d151-19bade765a9c",
+    "displayName": "PREMIER V26A1 GRAND CHAMP Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a9396bd8-415a-7b42-d151-19bade765a9c/displayicon.png",
+    "levels": [
+      {
+        "uuid": "f4627d07-4cee-af37-bd66-45bb7f5478e7",
+        "displayName": "PremierV26A1_Invite",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/f4627d07-4cee-af37-bd66-45bb7f5478e7/displayicon.png"
+      }
+    ]
+  },
+  "f4627d07-4cee-af37-bd66-45bb7f5478e7": {
+    "uuid": "a9396bd8-415a-7b42-d151-19bade765a9c",
+    "displayName": "PREMIER V26A1 GRAND CHAMP Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/a9396bd8-415a-7b42-d151-19bade765a9c/displayicon.png",
+    "levels": [
+      {
+        "uuid": "f4627d07-4cee-af37-bd66-45bb7f5478e7",
+        "displayName": "PremierV26A1_Invite",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/f4627d07-4cee-af37-bd66-45bb7f5478e7/displayicon.png"
+      }
+    ]
+  },
+  "563f3209-44b8-729b-96ed-3db88a3c9ed3": {
+    "uuid": "563f3209-44b8-729b-96ed-3db88a3c9ed3",
+    "displayName": "PREMIER V26A1 CHAMPION // OPN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/563f3209-44b8-729b-96ed-3db88a3c9ed3/displayicon.png",
+    "levels": [
+      {
+        "uuid": "bd2e8bf9-4b23-5c78-de74-ee94d019f050",
+        "displayName": "PremierV26A1_Open",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/bd2e8bf9-4b23-5c78-de74-ee94d019f050/displayicon.png"
+      }
+    ]
+  },
+  "bd2e8bf9-4b23-5c78-de74-ee94d019f050": {
+    "uuid": "563f3209-44b8-729b-96ed-3db88a3c9ed3",
+    "displayName": "PREMIER V26A1 CHAMPION // OPN Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/563f3209-44b8-729b-96ed-3db88a3c9ed3/displayicon.png",
+    "levels": [
+      {
+        "uuid": "bd2e8bf9-4b23-5c78-de74-ee94d019f050",
+        "displayName": "PremierV26A1_Open",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/bd2e8bf9-4b23-5c78-de74-ee94d019f050/displayicon.png"
       }
     ]
   },
@@ -18383,6 +18551,30 @@
       }
     ]
   },
+  "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0": {
+    "uuid": "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0",
+    "displayName": "5 Years // Beta Remastered Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0/displayicon.png",
+    "levels": [
+      {
+        "uuid": "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36",
+        "displayName": "Val5Beta",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36/displayicon.png"
+      }
+    ]
+  },
+  "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36": {
+    "uuid": "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0",
+    "displayName": "5 Years // Beta Remastered Buddy",
+    "displayIcon": "https://media.valorant-api.com/buddies/3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0/displayicon.png",
+    "levels": [
+      {
+        "uuid": "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36",
+        "displayName": "Val5Beta",
+        "displayIcon": "https://media.valorant-api.com/buddylevels/8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36/displayicon.png"
+      }
+    ]
+  },
   "1cb1cfef-4976-ad93-27bc-7a89b5e6fb2f": {
     "uuid": "1cb1cfef-4976-ad93-27bc-7a89b5e6fb2f",
     "displayName": "5 Years Buddy",
@@ -18452,30 +18644,6 @@
         "uuid": "bce99e59-4b40-f4e8-40c2-17bab2c1b024",
         "displayName": "Val5DIYLetterBeadGold",
         "displayIcon": "https://media.valorant-api.com/buddylevels/bce99e59-4b40-f4e8-40c2-17bab2c1b024/displayicon.png"
-      }
-    ]
-  },
-  "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0": {
-    "uuid": "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0",
-    "displayName": "5 Years // Beta Remastered Buddy",
-    "displayIcon": "https://media.valorant-api.com/buddies/3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0/displayicon.png",
-    "levels": [
-      {
-        "uuid": "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36",
-        "displayName": "Val5Beta",
-        "displayIcon": "https://media.valorant-api.com/buddylevels/8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36/displayicon.png"
-      }
-    ]
-  },
-  "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36": {
-    "uuid": "3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0",
-    "displayName": "5 Years // Beta Remastered Buddy",
-    "displayIcon": "https://media.valorant-api.com/buddies/3cbaee5a-42d9-9ba4-062c-aab1c3f05ef0/displayicon.png",
-    "levels": [
-      {
-        "uuid": "8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36",
-        "displayName": "Val5Beta",
-        "displayIcon": "https://media.valorant-api.com/buddylevels/8adfc33d-43f3-24d2-9ad7-4ab1ac9a1e36/displayicon.png"
       }
     ]
   },

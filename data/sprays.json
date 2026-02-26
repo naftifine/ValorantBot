@@ -748,111 +748,6 @@
     "fullIcon": "https://media.valorant-api.com/sprays/9db4721a-4eac-47f7-8805-31b79f2103f3/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/9db4721a-4eac-47f7-8805-31b79f2103f3/fulltransparenticon.png"
   },
-  "891758c9-4723-b867-2f9c-60ae7859388d": {
-    "uuid": "891758c9-4723-b867-2f9c-60ae7859388d",
-    "displayName": "Dream Team Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/fulltransparenticon.png"
-  },
-  "20804618-4c6c-3592-0356-ce883c0b3ba9": {
-    "uuid": "20804618-4c6c-3592-0356-ce883c0b3ba9",
-    "displayName": "Who's That Blind Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/fulltransparenticon.png"
-  },
-  "7d295a08-4a23-e073-cf96-6993c89229fe": {
-    "uuid": "7d295a08-4a23-e073-cf96-6993c89229fe",
-    "displayName": "Definitely Not It Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/fulltransparenticon.png"
-  },
-  "a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c": {
-    "uuid": "a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c",
-    "displayName": "Last Person Standing Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/fulltransparenticon.png"
-  },
-  "49aed04f-4253-3f4f-52b8-00bc6ee51ea1": {
-    "uuid": "49aed04f-4253-3f4f-52b8-00bc6ee51ea1",
-    "displayName": "Perfectly Roasted Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/fulltransparenticon.png"
-  },
-  "bef136fe-4494-5916-f93a-1db1af3ca10d": {
-    "uuid": "bef136fe-4494-5916-f93a-1db1af3ca10d",
-    "displayName": "Good Fortune Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/fulltransparenticon.png"
-  },
-  "7784e803-4fb8-830c-742d-b39e2a0f717a": {
-    "uuid": "7784e803-4fb8-830c-742d-b39e2a0f717a",
-    "displayName": "Oh No Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/fulltransparenticon.png"
-  },
-  "cf146552-44bb-18ff-e68a-b584b6165379": {
-    "uuid": "cf146552-44bb-18ff-e68a-b584b6165379",
-    "displayName": "No Bullets Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/fulltransparenticon.png"
-  },
-  "472693f9-4d87-416b-9def-3fbe2d310cc0": {
-    "uuid": "472693f9-4d87-416b-9def-3fbe2d310cc0",
-    "displayName": "Network Error Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/fulltransparenticon.png"
-  },
-  "4692c883-4a7e-c8b9-9e4d-79a25ef14763": {
-    "uuid": "4692c883-4a7e-c8b9-9e4d-79a25ef14763",
-    "displayName": "9 Lives Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/fulltransparenticon.png"
-  },
-  "bf0a475d-4e34-8c67-8533-eea86f459a26": {
-    "uuid": "bf0a475d-4e34-8c67-8533-eea86f459a26",
-    "displayName": "No Worries Neon Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/fulltransparenticon.png"
-  },
-  "6550c96f-491d-7e4c-e923-84bf433d0b3f": {
-    "uuid": "6550c96f-491d-7e4c-e923-84bf433d0b3f",
-    "displayName": "Shock Heart Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/fulltransparenticon.png"
-  },
-  "c3bee812-4eca-11af-2295-feb833077703": {
-    "uuid": "c3bee812-4eca-11af-2295-feb833077703",
-    "displayName": "Drop Skin Please Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/fulltransparenticon.png"
-  },
-  "6a54a0b7-4392-537d-28b0-17876973171b": {
-    "uuid": "6a54a0b7-4392-537d-28b0-17876973171b",
-    "displayName": "Gridcrash Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/fulltransparenticon.png"
-  },
-  "de79e31c-4f93-35e4-795a-c798156106ae": {
-    "uuid": "de79e31c-4f93-35e4-795a-c798156106ae",
-    "displayName": "Oh Yes Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/fulltransparenticon.png"
-  },
   "01060c4c-4e05-cfa5-dc3a-b38b6ac0bb58": {
     "uuid": "01060c4c-4e05-cfa5-dc3a-b38b6ac0bb58",
     "displayName": "Blueberry Spray",
@@ -2035,6 +1930,111 @@
     "displayIcon": "https://media.valorant-api.com/sprays/30b0ab90-4cba-6c69-c7d2-f68b14574aa2/displayicon.png",
     "fullIcon": "https://media.valorant-api.com/sprays/30b0ab90-4cba-6c69-c7d2-f68b14574aa2/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/30b0ab90-4cba-6c69-c7d2-f68b14574aa2/fulltransparenticon.png"
+  },
+  "891758c9-4723-b867-2f9c-60ae7859388d": {
+    "uuid": "891758c9-4723-b867-2f9c-60ae7859388d",
+    "displayName": "Dream Team Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/891758c9-4723-b867-2f9c-60ae7859388d/fulltransparenticon.png"
+  },
+  "20804618-4c6c-3592-0356-ce883c0b3ba9": {
+    "uuid": "20804618-4c6c-3592-0356-ce883c0b3ba9",
+    "displayName": "Who's That Blind Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/20804618-4c6c-3592-0356-ce883c0b3ba9/fulltransparenticon.png"
+  },
+  "7d295a08-4a23-e073-cf96-6993c89229fe": {
+    "uuid": "7d295a08-4a23-e073-cf96-6993c89229fe",
+    "displayName": "Definitely Not It Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/7d295a08-4a23-e073-cf96-6993c89229fe/fulltransparenticon.png"
+  },
+  "a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c": {
+    "uuid": "a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c",
+    "displayName": "Last Person Standing Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/a44ca875-40c6-a0ee-7bb4-ca8d0fa0da2c/fulltransparenticon.png"
+  },
+  "49aed04f-4253-3f4f-52b8-00bc6ee51ea1": {
+    "uuid": "49aed04f-4253-3f4f-52b8-00bc6ee51ea1",
+    "displayName": "Perfectly Roasted Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/49aed04f-4253-3f4f-52b8-00bc6ee51ea1/fulltransparenticon.png"
+  },
+  "bef136fe-4494-5916-f93a-1db1af3ca10d": {
+    "uuid": "bef136fe-4494-5916-f93a-1db1af3ca10d",
+    "displayName": "Good Fortune Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/bef136fe-4494-5916-f93a-1db1af3ca10d/fulltransparenticon.png"
+  },
+  "7784e803-4fb8-830c-742d-b39e2a0f717a": {
+    "uuid": "7784e803-4fb8-830c-742d-b39e2a0f717a",
+    "displayName": "Oh No Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/7784e803-4fb8-830c-742d-b39e2a0f717a/fulltransparenticon.png"
+  },
+  "cf146552-44bb-18ff-e68a-b584b6165379": {
+    "uuid": "cf146552-44bb-18ff-e68a-b584b6165379",
+    "displayName": "No Bullets Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/cf146552-44bb-18ff-e68a-b584b6165379/fulltransparenticon.png"
+  },
+  "472693f9-4d87-416b-9def-3fbe2d310cc0": {
+    "uuid": "472693f9-4d87-416b-9def-3fbe2d310cc0",
+    "displayName": "Network Error Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/472693f9-4d87-416b-9def-3fbe2d310cc0/fulltransparenticon.png"
+  },
+  "4692c883-4a7e-c8b9-9e4d-79a25ef14763": {
+    "uuid": "4692c883-4a7e-c8b9-9e4d-79a25ef14763",
+    "displayName": "9 Lives Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/4692c883-4a7e-c8b9-9e4d-79a25ef14763/fulltransparenticon.png"
+  },
+  "bf0a475d-4e34-8c67-8533-eea86f459a26": {
+    "uuid": "bf0a475d-4e34-8c67-8533-eea86f459a26",
+    "displayName": "No Worries Neon Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/bf0a475d-4e34-8c67-8533-eea86f459a26/fulltransparenticon.png"
+  },
+  "6550c96f-491d-7e4c-e923-84bf433d0b3f": {
+    "uuid": "6550c96f-491d-7e4c-e923-84bf433d0b3f",
+    "displayName": "Shock Heart Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6550c96f-491d-7e4c-e923-84bf433d0b3f/fulltransparenticon.png"
+  },
+  "c3bee812-4eca-11af-2295-feb833077703": {
+    "uuid": "c3bee812-4eca-11af-2295-feb833077703",
+    "displayName": "Drop Skin Please Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/c3bee812-4eca-11af-2295-feb833077703/fulltransparenticon.png"
+  },
+  "6a54a0b7-4392-537d-28b0-17876973171b": {
+    "uuid": "6a54a0b7-4392-537d-28b0-17876973171b",
+    "displayName": "Gridcrash Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6a54a0b7-4392-537d-28b0-17876973171b/fulltransparenticon.png"
+  },
+  "de79e31c-4f93-35e4-795a-c798156106ae": {
+    "uuid": "de79e31c-4f93-35e4-795a-c798156106ae",
+    "displayName": "Oh Yes Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/de79e31c-4f93-35e4-795a-c798156106ae/fulltransparenticon.png"
   },
   "56edb899-4ae8-9f20-9412-21ae19ef368d": {
     "uuid": "56edb899-4ae8-9f20-9412-21ae19ef368d",
@@ -3289,6 +3289,13 @@
     "fullIcon": "https://media.valorant-api.com/sprays/78cc63ef-4789-3a69-49f6-f7b43b07b29d/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/78cc63ef-4789-3a69-49f6-f7b43b07b29d/fulltransparenticon.png"
   },
+  "6300dcf4-40d5-6d89-e46c-878052e3deea": {
+    "uuid": "6300dcf4-40d5-6d89-e46c-878052e3deea",
+    "displayName": "Give Back // 2024 Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/fulltransparenticon.png"
+  },
   "583fece9-4c99-be2b-26ef-76a6020bfb4e": {
     "uuid": "583fece9-4c99-be2b-26ef-76a6020bfb4e",
     "displayName": "Give Back // V25 Spray",
@@ -3302,13 +3309,6 @@
     "displayIcon": "https://media.valorant-api.com/sprays/41450726-4566-aca7-6b98-8d9fcd9105d7/displayicon.png",
     "fullIcon": "https://media.valorant-api.com/sprays/41450726-4566-aca7-6b98-8d9fcd9105d7/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/41450726-4566-aca7-6b98-8d9fcd9105d7/fulltransparenticon.png"
-  },
-  "6300dcf4-40d5-6d89-e46c-878052e3deea": {
-    "uuid": "6300dcf4-40d5-6d89-e46c-878052e3deea",
-    "displayName": "Give Back // 2024 Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/6300dcf4-40d5-6d89-e46c-878052e3deea/fulltransparenticon.png"
   },
   "85637987-4961-177a-28f0-f3acf8facb6a": {
     "uuid": "85637987-4961-177a-28f0-f3acf8facb6a",
@@ -3967,6 +3967,13 @@
     "displayIcon": "https://media.valorant-api.com/sprays/b1c901c2-48fe-9524-25ed-52a31e6e7b89/displayicon.png",
     "fullIcon": "https://media.valorant-api.com/sprays/b1c901c2-48fe-9524-25ed-52a31e6e7b89/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/b1c901c2-48fe-9524-25ed-52a31e6e7b89/fulltransparenticon.png"
+  },
+  "924fa67d-4846-441d-cf15-fc8ba11499f3": {
+    "uuid": "924fa67d-4846-441d-cf15-fc8ba11499f3",
+    "displayName": "Hatchbudz: Quacked Series Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/924fa67d-4846-441d-cf15-fc8ba11499f3/displayicon.png",
+    "fullIcon": null,
+    "fullTransparentIcon": null
   },
   "e428e9d5-4912-ffac-031b-f293375cd14d": {
     "uuid": "e428e9d5-4912-ffac-031b-f293375cd14d",
@@ -5711,19 +5718,19 @@
     "fullIcon": "https://media.valorant-api.com/sprays/83374b92-49ef-5138-95f0-10a34b6b0077/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/83374b92-49ef-5138-95f0-10a34b6b0077/fulltransparenticon.png"
   },
-  "d6646372-4fb8-bd2d-9f62-b4a9cb8e0799": {
-    "uuid": "d6646372-4fb8-bd2d-9f62-b4a9cb8e0799",
-    "displayName": "5 Years Spray",
-    "displayIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/displayicon.png",
-    "fullIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/fullicon.png",
-    "fullTransparentIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/fulltransparenticon.png"
-  },
   "dd97bf4a-4eb4-b825-98e3-03b5390a64f3": {
     "uuid": "dd97bf4a-4eb4-b825-98e3-03b5390a64f3",
     "displayName": "5 Years // Beta Remastered Spray",
     "displayIcon": "https://media.valorant-api.com/sprays/dd97bf4a-4eb4-b825-98e3-03b5390a64f3/displayicon.png",
     "fullIcon": "https://media.valorant-api.com/sprays/dd97bf4a-4eb4-b825-98e3-03b5390a64f3/fullicon.png",
     "fullTransparentIcon": "https://media.valorant-api.com/sprays/dd97bf4a-4eb4-b825-98e3-03b5390a64f3/fulltransparenticon.png"
+  },
+  "d6646372-4fb8-bd2d-9f62-b4a9cb8e0799": {
+    "uuid": "d6646372-4fb8-bd2d-9f62-b4a9cb8e0799",
+    "displayName": "5 Years Spray",
+    "displayIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/displayicon.png",
+    "fullIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/fullicon.png",
+    "fullTransparentIcon": "https://media.valorant-api.com/sprays/d6646372-4fb8-bd2d-9f62-b4a9cb8e0799/fulltransparenticon.png"
   },
   "0c342c8c-492e-e20e-cf06-c694ec4a386f": {
     "uuid": "0c342c8c-492e-e20e-cf06-c694ec4a386f",

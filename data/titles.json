@@ -244,21 +244,6 @@
     "displayName": "Random Title",
     "titleText": "Random"
   },
-  "c406ce13-48d8-bdad-42ce-7a9d4c967492": {
-    "uuid": "c406ce13-48d8-bdad-42ce-7a9d4c967492",
-    "displayName": "Operator Only Title",
-    "titleText": "Operator Only"
-  },
-  "37690f15-4bbb-cea6-d8bd-bd8387b77ed1": {
-    "uuid": "37690f15-4bbb-cea6-d8bd-bd8387b77ed1",
-    "displayName": "Rez Bait Title",
-    "titleText": "Rez Bait"
-  },
-  "0053beda-44f4-47f0-3ec5-68a20f7a0505": {
-    "uuid": "0053beda-44f4-47f0-3ec5-68a20f7a0505",
-    "displayName": "Unrated Title",
-    "titleText": "Unrated"
-  },
   "5bdea980-4397-a1bd-1fab-659153ca196e": {
     "uuid": "5bdea980-4397-a1bd-1fab-659153ca196e",
     "displayName": "Boosted Title",
@@ -473,6 +458,21 @@
     "uuid": "0a4f7e1d-4478-e4fb-1bab-518d005034db",
     "displayName": "Disruption Title",
     "titleText": "Disruption"
+  },
+  "c406ce13-48d8-bdad-42ce-7a9d4c967492": {
+    "uuid": "c406ce13-48d8-bdad-42ce-7a9d4c967492",
+    "displayName": "Operator Only Title",
+    "titleText": "Operator Only"
+  },
+  "37690f15-4bbb-cea6-d8bd-bd8387b77ed1": {
+    "uuid": "37690f15-4bbb-cea6-d8bd-bd8387b77ed1",
+    "displayName": "Rez Bait Title",
+    "titleText": "Rez Bait"
+  },
+  "0053beda-44f4-47f0-3ec5-68a20f7a0505": {
+    "uuid": "0053beda-44f4-47f0-3ec5-68a20f7a0505",
+    "displayName": "Unrated Title",
+    "titleText": "Unrated"
   },
   "254021ec-426c-85de-3eba-faaeff17a5f5": {
     "uuid": "254021ec-426c-85de-3eba-faaeff17a5f5",
@@ -1439,6 +1439,36 @@
     "displayName": "PREMIER V25A6 CHAMPION // OPN Title",
     "titleText": "PREMIER V25A6 CHAMPION // OPN"
   },
+  "0e05038e-4c72-bff1-75dd-bf8561ac1a1b": {
+    "uuid": "0e05038e-4c72-bff1-75dd-bf8561ac1a1b",
+    "displayName": "PREMIER V26A1 CHAMPION // ADV Title",
+    "titleText": "PREMIER V26A1 CHAMPION // ADV"
+  },
+  "e1289b90-408f-0e47-cd8a-f48842fedf46": {
+    "uuid": "e1289b90-408f-0e47-cd8a-f48842fedf46",
+    "displayName": "PREMIER V26A1 CHAMPION // CTD Title",
+    "titleText": "PREMIER V26A1 CHAMPION // CTD"
+  },
+  "35c3673a-4bd5-c110-128a-669a7105775c": {
+    "uuid": "35c3673a-4bd5-c110-128a-669a7105775c",
+    "displayName": "PREMIER V26A1 CHAMPION // ELT Title",
+    "titleText": "PREMIER V26A1 CHAMPION // ELT"
+  },
+  "a8f89ca4-44e9-6c4f-9b3a-cf8190206f16": {
+    "uuid": "a8f89ca4-44e9-6c4f-9b3a-cf8190206f16",
+    "displayName": "PREMIER V26A1 GRAND CHAMP Title",
+    "titleText": "PREMIER V26A1 GRAND CHAMP"
+  },
+  "9e68fb44-4269-ead6-3dc4-b89bcb63b5ea": {
+    "uuid": "9e68fb44-4269-ead6-3dc4-b89bcb63b5ea",
+    "displayName": "PREMIER V26A1 CHAMPION // INT Title",
+    "titleText": "PREMIER V26A1 CHAMPION // INT"
+  },
+  "c081b3f0-419a-653d-6b6b-e89c7edbac84": {
+    "uuid": "c081b3f0-419a-653d-6b6b-e89c7edbac84",
+    "displayName": "PREMIER V26A1 CHAMPION // OPN Title",
+    "titleText": "PREMIER V26A1 CHAMPION // OPN"
+  },
   "f3bf3c15-4e3b-6e58-64a3-8f9995f39370": {
     "uuid": "f3bf3c15-4e3b-6e58-64a3-8f9995f39370",
     "displayName": "Ally Title",
@@ -1769,15 +1799,15 @@
     "displayName": "VCT Game Changer Title",
     "titleText": "VCT Game Changer"
   },
-  "4691c456-401c-0bb5-8c31-72ab0f287b1a": {
-    "uuid": "4691c456-401c-0bb5-8c31-72ab0f287b1a",
-    "displayName": "5 Years Title",
-    "titleText": "5 Years"
-  },
   "8fd54857-406f-a9e7-e700-80aa8f0f3467": {
     "uuid": "8fd54857-406f-a9e7-e700-80aa8f0f3467",
     "displayName": "β Title",
     "titleText": "β"
+  },
+  "4691c456-401c-0bb5-8c31-72ab0f287b1a": {
+    "uuid": "4691c456-401c-0bb5-8c31-72ab0f287b1a",
+    "displayName": "5 Years Title",
+    "titleText": "5 Years"
   },
   "4651cbb1-49be-8e7e-0df5-70990e9600b2": {
     "uuid": "4651cbb1-49be-8e7e-0df5-70990e9600b2",
