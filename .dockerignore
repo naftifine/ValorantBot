@@ -45,11 +45,6 @@ build/
 .npm/
 .eslintcache
 
-# Sensitive data files
-data/banList.json
-data/profile.json
-data/data.json
-
 # Temporary files
 *.tmp
 *.temp
